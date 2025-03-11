@@ -1,16 +1,24 @@
-## Hi there 👋
+## Olá! Eu sou João Marcos   👋
 
-<!--
-**J-Marcos01/J-Marcos01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Ainda não trabalho com tecnologia, sou funcionário público estadual e desenvolvo projetos pessoais...
+- 🌱 Estudao Análises e Desenvolvimento de Sistemas na FATEC-ZL ...
+- ⚡ Fun fact:Praticante de JJ , Corrida , natação e carregando ...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <div>
+  <a href="https://github.com/J-Marcos01">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=J-Marcos01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-Marcos01&layout=compact&langs_count=16&theme=tokyonight"/>
+</div>
+<div style="display: inline_block"><br>
+
+  ##
+ 
+<div> 
+  
+ 
+  <a href = "mailto:marcosjoao.jm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+ 
+</div>
+
