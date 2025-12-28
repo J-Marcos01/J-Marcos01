@@ -1,32 +1,34 @@
-## Olá! Eu sou João Marcos   👋
+## Olá! Eu sou João Marcos 👋
 
+Sou funcionário público estadual, onde atuo no gerenciamento de recursos de TI, provendo suporte e soluções de infraestrutura. Paralelamente, dedico-me ao desenvolvimento de software, criando projetos pessoais e aprimorando minhas competências técnicas.
 
-- 🔭 Sou funcionário público estadual e atualmente gerencio os recursos de TI fornecendo suporte e soluções de infraestrutura e software,nas horas vagas desenvolvo projetos pessoais...
-- 🌱 Estudo Análises e Desenvolvimento de Sistemas na FATEC-ZL ( 6ºSem em Fev2026) ...
-- 🖥️ Desenvolvedor Java com conhecimento em Spring e noção em front com React e Flutter
-  🖥️ Noção em Python
-  🖥️ Noção em banco de dados com maior domínio em relacionais MySql
-  🖥️ Noção em UML e Padrões de Projeto
-  🖥️ Noção em Containeres ( maior domínio em Docker)
-  🖥️ Noção em engenharia de Prompts
-  🖥️ Noção em PowerBI ( Microsoft PowerBI e LoockerStudio)
-  🖥️ Noção em Testes 
-  🖥️ Boa base em lógica de programação e estrutura de dados
-  
- <div>
-  <a href="https://github.com/J-Marcos01">
+- 🌱 Graduando em **Análise e Desenvolvimento de Sistemas** na FATEC-ZL (6º Semestre em Fev/2026).
+- 🚀 Focado no ecossistema **Java/Spring Boot** e explorando soluções modernas de infraestrutura.
+
+### 🛠️ Hard Skills
+
+* **Linguagens & Frameworks:** Java (Spring Boot), Python, React e Flutter.
+* **Banco de Dados:** Domínio em relacionais (MySQL) e modelagem de dados.
+* **Infraestrutura & DevOps:** Experiência com Docker (Containers) e suporte de TI.
+* **Engenharia de Software:** Padrões de Projeto (Design Patterns), UML e Testes.
+* **Dados & BI:** Visualização de dados com Microsoft Power BI e Looker Studio.
+* **IA:** Engenharia de Prompts aplicada ao desenvolvimento.
+* **Base Sólida:** Lógica de programação e Estrutura de Dados.
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=J-Marcos01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-Marcos01&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
-<div style="display: inline_block"><br>
 
-  ##
- 
-<div> 
-  
- 
-  <a href = "mailto:marcosjoao.jm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
- 
+### 📫 Vamos conversar?
+
+<div align="left">
+  <a href="mailto:marcosjoao.jm@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/joao-marcos-4a5351317/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </div>
-
