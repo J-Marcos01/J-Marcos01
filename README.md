@@ -25,7 +25,7 @@ Sou funcionário público estadual, onde atuo no gerenciamento de recursos de TI
 ### 📫 Vamos conversar?
 
 <div align="left">
-  <a href="mailto:marcosjoao.jm@gmail.com">
+  <a href="mailto:marcosjoao63.jm@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/joao-marcos-4a5351317/" target="_blank">
