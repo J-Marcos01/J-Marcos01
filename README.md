@@ -17,10 +17,16 @@ Sou funcionário público estadual, onde atuo no gerenciamento de recursos de TI
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
+ <div>
+
+  <a href="https://github.com/J-Marcos01">
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=J-Marcos01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-Marcos01&layout=compact&langs_count=16&theme=tokyonight"/>
+
 </div>
+
 
 ### 📫 Vamos conversar?
 
