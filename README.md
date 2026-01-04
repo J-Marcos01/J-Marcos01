@@ -1,28 +1,60 @@
-## Olá! Eu sou João Marcos 👋
+<div align="center">
+  <h1>Olá! Eu sou João Marcos 👋</h1>
+  <p>
+    <b>Backend Developer | Java & Spring Boot Ecosystem</b>
+  </p>
 
-Sou funcionário público estadual, onde atuo no gerenciamento de recursos de TI, provendo suporte e soluções de infraestrutura. Paralelamente, dedico-me ao desenvolvimento de software, criando projetos pessoais e aprimorando minhas competências técnicas.
+  <p>
+     Atuo no gerenciamento de recursos de TI no setor público e sou graduando em <b>Análise e Desenvolvimento de Sistemas na FATEC-ZL</b> (Previsão: JUN/2026). Foco no desenvolvimento de soluções escaláveis, aplicando boas práticas e infraestrutura moderna.
+  </p>
 
-- 🌱 Graduando em **Análise e Desenvolvimento de Sistemas** na FATEC-ZL (6º Semestre em Fev/2026).
-- 🚀 Focado no ecossistema **Java/Spring Boot** e explorando soluções modernas de infraestrutura.
+<br>
 
-### 🛠️ Hard Skills
+## 🚀 Stack Principal (Foco)
 
-* **Linguagens & Frameworks:** Java (Spring Boot), Python, React e Flutter.
-* **Banco de Dados:** Domínio em relacionais (MySQL) e modelagem de dados.
-* **Infraestrutura & DevOps:** Experiência com Docker (Containers) e suporte de TI.
-* **Engenharia de Software:** Padrões de Projeto (Design Patterns), UML e Testes.
-* **Dados & BI:** Visualização de dados com Microsoft Power BI e Looker Studio.
-* **IA:** Engenharia de Prompts aplicada ao desenvolvimento.
-* **Base Sólida:** Lógica de programação e Estrutura de Dados.
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+
+<br>
+<br>
+
+## 🛠️ Ferramentas e Competências
+
+<table>
+  <tr>
+    <td align="center" width="90"><b>Frontend & Mobile</b></td>
+    <td align="center" width="90"><b>Dados & BI</b></td>
+    <td align="center" width="90"><b>Inovação</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react,flutter" alt="Frontend Icons"/>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python" alt="Python Icon"/><br>
+      <sub>Power BI & Looker</sub>
+    </td>
+     <td align="center">
+      <img src="https://skillicons.dev/icons?i=chatgpt" alt="AI Icon"/><br>
+      <sub>Eng. de Prompts</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="left">
+  Adicionalmente, possuo base sólida em <b>Design Patterns</b>, <b>UML</b>, <b>Testes</b> e <b>Estrutura de Dados</b>.
+</p>
 
 
-### 📫 Vamos conversar?
+### 📫 Contato
 
-<div align="left">
   <a href="mailto:marcosjoao63.jm@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://www.linkedin.com/in/joao-marcos-4a5351317/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+
 </div>
